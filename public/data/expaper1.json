@@ -1,0 +1,39 @@
+{
+  "header": {
+    "id": "1",
+    "absent": "no",
+    "note": "...",
+    "barcode": "45ada5s5556asda6s11123a"
+  },
+  "question-1": {
+    "level": "1",
+    "topic":"你好吗？" ,
+    "type": "无",
+    "score":"5" ,
+    "expected": "A"
+  },
+  "question-2": {
+    "level": "1",
+    "topic":"猜猜我是谁？" ,
+    "type": "无",
+    "score":"5" ,
+    "expected": "B"
+  },
+  "question-3": {
+    "level": "1",
+    "topic":"今天天气不错？" ,
+    "type": "无",
+    "score":"5" ,
+    "expected": "C"
+  },
+  "question-4": {
+    "level": "1",
+    "topic":"去吃顿饭？" ,
+    "type": "无",
+    "score":"5" ,
+    "expected": "D"
+  }
+}
+
+
+
